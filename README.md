@@ -48,6 +48,7 @@ Minecraft Mob Detection Mod is a modification for Minecraft that uses YOLOv5 obj
    ```bash
    cp build/libs/MinecraftMobDetectionMod.jar ~/.minecraft/mods/
    ```
+   - or just simply move .jar package in this root foler to /.minecraft/mods/
 
 ## Usage
 
