@@ -8,7 +8,7 @@ Minecraft Mob Detection Mod is a modification for Minecraft that uses YOLOv5 obj
 - Real-time detection of various Minecraft mobs.
 - Utilizes machine learning algorithms for accurate detection.
 - Easy integration with existing Minecraft setups.
-- Customizable settings to adjust detection angle. It currently scans opposite sight of your sight, and scans once per 120 frames.
+- Customizable settings to adjust detection angle. It currently scans opposite side of your sight, and scans once per 120 frames.
 
 ## Requirements
 
@@ -48,6 +48,7 @@ Minecraft Mob Detection Mod is a modification for Minecraft that uses YOLOv5 obj
    ```bash
    cp build/libs/MinecraftMobDetectionMod.jar ~/.minecraft/mods/
    ```
+   - or just simply move .jar package in this root folder to /.minecraft/mods/
 
 ## Usage
 
